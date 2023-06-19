@@ -1,0 +1,15 @@
+C:\Users\Chubaka\Desktop\praktik3\zd21\bin\Debug\net7.0\zd21.exe
+C:\Users\Chubaka\Desktop\praktik3\zd21\bin\Debug\net7.0\zd21.deps.json
+C:\Users\Chubaka\Desktop\praktik3\zd21\bin\Debug\net7.0\zd21.runtimeconfig.json
+C:\Users\Chubaka\Desktop\praktik3\zd21\bin\Debug\net7.0\zd21.dll
+C:\Users\Chubaka\Desktop\praktik3\zd21\bin\Debug\net7.0\zd21.pdb
+C:\Users\Chubaka\Desktop\praktik3\zd21\obj\Debug\net7.0\zd21.csproj.AssemblyReference.cache
+C:\Users\Chubaka\Desktop\praktik3\zd21\obj\Debug\net7.0\zd21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chubaka\Desktop\praktik3\zd21\obj\Debug\net7.0\zd21.AssemblyInfoInputs.cache
+C:\Users\Chubaka\Desktop\praktik3\zd21\obj\Debug\net7.0\zd21.AssemblyInfo.cs
+C:\Users\Chubaka\Desktop\praktik3\zd21\obj\Debug\net7.0\zd21.csproj.CoreCompileInputs.cache
+C:\Users\Chubaka\Desktop\praktik3\zd21\obj\Debug\net7.0\zd21.dll
+C:\Users\Chubaka\Desktop\praktik3\zd21\obj\Debug\net7.0\refint\zd21.dll
+C:\Users\Chubaka\Desktop\praktik3\zd21\obj\Debug\net7.0\zd21.pdb
+C:\Users\Chubaka\Desktop\praktik3\zd21\obj\Debug\net7.0\zd21.genruntimeconfig.cache
+C:\Users\Chubaka\Desktop\praktik3\zd21\obj\Debug\net7.0\ref\zd21.dll
