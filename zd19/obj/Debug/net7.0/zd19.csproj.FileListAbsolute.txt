@@ -1,0 +1,15 @@
+C:\Users\Chubaka\Desktop\praktik3\zd19\bin\Debug\net7.0\zd19.exe
+C:\Users\Chubaka\Desktop\praktik3\zd19\bin\Debug\net7.0\zd19.deps.json
+C:\Users\Chubaka\Desktop\praktik3\zd19\bin\Debug\net7.0\zd19.runtimeconfig.json
+C:\Users\Chubaka\Desktop\praktik3\zd19\bin\Debug\net7.0\zd19.dll
+C:\Users\Chubaka\Desktop\praktik3\zd19\bin\Debug\net7.0\zd19.pdb
+C:\Users\Chubaka\Desktop\praktik3\zd19\obj\Debug\net7.0\zd19.csproj.AssemblyReference.cache
+C:\Users\Chubaka\Desktop\praktik3\zd19\obj\Debug\net7.0\zd19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chubaka\Desktop\praktik3\zd19\obj\Debug\net7.0\zd19.AssemblyInfoInputs.cache
+C:\Users\Chubaka\Desktop\praktik3\zd19\obj\Debug\net7.0\zd19.AssemblyInfo.cs
+C:\Users\Chubaka\Desktop\praktik3\zd19\obj\Debug\net7.0\zd19.csproj.CoreCompileInputs.cache
+C:\Users\Chubaka\Desktop\praktik3\zd19\obj\Debug\net7.0\zd19.dll
+C:\Users\Chubaka\Desktop\praktik3\zd19\obj\Debug\net7.0\refint\zd19.dll
+C:\Users\Chubaka\Desktop\praktik3\zd19\obj\Debug\net7.0\zd19.pdb
+C:\Users\Chubaka\Desktop\praktik3\zd19\obj\Debug\net7.0\zd19.genruntimeconfig.cache
+C:\Users\Chubaka\Desktop\praktik3\zd19\obj\Debug\net7.0\ref\zd19.dll
